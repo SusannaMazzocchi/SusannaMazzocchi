@@ -1,6 +1,6 @@
 # About Me
 
-I'm Susaanna, an undergraduate student in AI with a focus on computational neuroscience and physics   
+I'm Susanna, an undergraduate student in AI with a focus on computational neuroscience and physics   
 I explore medical data and brain modeling projects, always seeking challenges that push my limits   
 I love turning ideas into reality, building projects inspired by whatever sparks my curiosity   
 
