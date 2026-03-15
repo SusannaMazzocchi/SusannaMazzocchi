@@ -1,8 +1,8 @@
 # About Me
 
-I'm Susanna, an undergraduate student in AI with a focus on computational neuroscience and physics   
-I explore medical data and brain modeling projects, always seeking challenges that push my limits   
-I love turning ideas into reality, building projects inspired by whatever sparks my curiosity   
+I'm Susanna, an undergraduate student in AI interested in knowing how the human brain works.
+I thrive on projects that can be a challenge.  
+I love turning ideas into reality and building projects inspired by whatever sparks my curiosity. 
 
 ## Tools & Languages
 Python | MATLAB | R  
